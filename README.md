@@ -1,4 +1,5 @@
-# 🍣 Danny's Diner SQL Case Study
+# 🍣 Danny's Diner SQL Case Study 
+link : https://8weeksqlchallenge.com/case-study-1/
 
 ## Overview
 
